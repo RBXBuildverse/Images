@@ -1,0 +1,3 @@
+[tools]
+rojo = "rojo-rbx/rojo@7.3.0"
+tarmac = "roblox/tarmac@0.7.0"

@@ -1,0 +1,53 @@
+name = "Images"
+upload-to-group-id = 17305981
+
+## Qt://icons/Dark
+[[inputs]]
+glob = "Assets/Qt/icons/Dark/Roblox/16/1x/*.png"
+
+packable = true
+
+codegen = true
+codegen-path = "src/Assets/Qt.icons.Dark.Roblox.16.1x.lua"
+
+[[inputs]]
+glob = "Assets/Qt/icons/Dark/Roblox/16/2x/*.png"
+
+packable = true
+
+codegen = true
+codegen-path = "src/Assets/Qt.icons.Dark.Roblox.16.2x.lua"
+
+[[inputs]]
+glob = "Assets/Qt/icons/Dark/Roblox/16/3x/*.png"
+
+packable = true
+
+codegen = true
+codegen-path = "src/Assets/Qt.icons.Dark.Roblox.16.3x.lua"
+
+
+## Qt://icons/Light
+[[inputs]]
+glob = "Assets/Qt/icons/Light/Roblox/16/1x/*.png"
+
+packable = true
+
+codegen = true
+codegen-path = "src/Assets/Qt.icons.Light.Roblox.16.1x.lua"
+
+[[inputs]]
+glob = "Assets/Qt/icons/Light/Roblox/16/2x/*.png"
+
+packable = true
+
+codegen = true
+codegen-path = "src/Assets/Qt.icons.Light.Roblox.16.2x.lua"
+
+[[inputs]]
+glob = "Assets/Qt/icons/Light/Roblox/16/3x/*.png"
+
+packable = true
+
+codegen = true
+codegen-path = "src/Assets/Qt.icons.Light.Roblox.16.3x.lua"

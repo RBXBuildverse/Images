@@ -1,0 +1,1 @@
+Rojo build --output Images.rbxm

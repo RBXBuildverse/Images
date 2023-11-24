@@ -1,0 +1,12 @@
+{
+	"name": "Images-Dev",
+	"tree": {
+		"$className": "DataModel",
+
+		"ReplicatedStorage": {
+			"Images": {
+				"$path": "default.project.json"
+			}
+		}
+	}
+}
