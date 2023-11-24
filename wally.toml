@@ -1,0 +1,13 @@
+[package]
+
+name = "fuego-softworks/images"
+description = "Image asset management library"
+version = "1.0.0"
+realm = "shared"
+
+authors = ["omwot"]
+license = "MIT"
+
+registry = "https://github.com/UpliftGames/wally-index"
+
+[dependencies]
